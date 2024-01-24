@@ -1,4 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/Qm1bV9T_)
+
 This file program in the above folder is For chapter 14 Problems 4/5/6.
 The file opens and Problem 4 is solved by adding a gridview, a search textbox, and two buttons to search by product number or product description.
 I programmed both buttons to put information from the database and then display the results at the end.
